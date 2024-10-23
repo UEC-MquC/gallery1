@@ -32,8 +32,8 @@ h4{
 }
   
 #image-track > .image {
-    width: 40vmin;
-    height: 56vmin;
+    width: 50vmin;
+    height: 125vmin;
     object-fit: cover;
     object-position: 100% center;
 }
